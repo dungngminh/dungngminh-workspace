@@ -1,6 +1,7 @@
 name: http_client_handler
-description: A http client handler for base api client
-version: 0.1.0+1
+description: A wrapper on top of `http` package with GET, POST, PUT, DELELE, POST File, easier for using.
+repository: https://github.com/dungngminh/dungngminh-workspace
+version: 0.1.1
 
 environment:
   sdk: ">=2.17.0 <3.0.0"

@@ -1,12 +1,11 @@
 name: platform_helper
-description: A set of helper for app like image picker
-version: 0.1.0+1
-publish_to: none
-
+description: A set of helper for app like image picker, adaptive image provider, toast...
+repository: https://github.com/dungngminh/dungngminh-workspace
+version: 0.1.0
 
 environment:
   sdk: ">=2.18.0 <3.0.0"
-  flutter: 3.3.3
+  flutter: ">=3.3.0"
 
 dependencies:
   flutter:
